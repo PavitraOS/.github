@@ -1,8 +1,6 @@
-
-
 # 🖥️ PavitraOS  
 
-![PavitraOS Banner](https://your-image-url.com)  
+![PavitraOS Banner](https://raw.githubusercontent.com/PavitraOS/.github/main/profile/banner.png)  
 
 🚀 **PavitraOS** is a next-generation Linux-based operating system designed to be **lightweight, powerful, and user-friendly**. It aims to provide seamless compatibility with **Windows, macOS, and Linux applications**, offering an optimized computing experience for developers, security researchers, and everyday users.  
 
