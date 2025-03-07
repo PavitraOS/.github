@@ -126,13 +126,5 @@ We welcome **open-source contributors** to help improve PavitraOS! 🛠️
 
 A huge thank you to all **contributors, developers, and supporters** who make PavitraOS possible! 🙌  
 
-```
 
 
-### **Key Improvements in this Version:**  
-
-✅ **Professional & Structured** – Includes a detailed overview, features, installation guide, and contribution guidelines.  
-✅ **Well-Formatted Markdown** – Uses proper headings, lists, and code blocks for clarity.  
-✅ **Expanded Contribution Section** – Encourages community participation.  
-✅ **Roadmap & Community Links** – Engages users with clear goals and communication channels.  
-✅ **Modern & User-Friendly** – Ensures a great first impression for developers and users.  
